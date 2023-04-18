@@ -4,7 +4,9 @@
 With everything gradually changing to become more convenient and faster, people's demand for online shopping has also increased greatly. In Vietnam, online shopping platforms develop very quickly and Tiki is one of the top online shopping platforms in Vietnam.
 <br>
 To support users who are new sellers who want to start selling on the e-commerce platform Tiki to collect data on one or more products to come up with a target product to start selling based on the collected data, this application was created.
+
 <br>
+
 ## Function
 With a friendly and easy-to-use interface, the application will quickly master with new users.
 ![Screenshot 2023-04-19 005403 (1)](https://user-images.githubusercontent.com/101572443/232869991-4e738d7d-428d-4fda-969e-267e614ccb8b.png)
@@ -20,10 +22,10 @@ Explain the applications' features
 7. 'Export': Choosing a type of file would like to export.
 8. 'Browser': Choosing a browser platform want to use.
 
-## Result
-
 <br>
 
+## Result
+<br>
 |      | Tên hàng            | Tên cửa hàng  |Thương hiệu sản phẩm|Giá gốc|Discount rate|Giá thực trả|Đánh giá|Tổng số nhận xét|Đã bán|             Link             |
 |------|---------------------|:-------------:|:------------------:|:-----:|:-----------:|:----------:|:------:|:--------------:|:----:|:----------------------------:|
 |  0   |[MỚI] Tã/bỉm Bobby   |Tiki Trading   |Bobby               |606500 |35           |395000      |5       |349             |5954  |https://tiki.vn.....198744326 |
@@ -36,8 +38,12 @@ Explain the applications' features
 
 <br>
 
-## Requirements
+## Conclusion
+Through data collection using this application and having the data as shown above, we can combine with the customer360 model to effectively plan and choose which items are likely to sell best.
 
+<br>
+
+## Requirements
 Need pip these library followed:
 * **tkinter**
 * **tktooltip**
