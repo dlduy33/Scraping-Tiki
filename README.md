@@ -38,7 +38,7 @@ Through data collection using this application and having the data as shown abov
 
 ## Requirements
 Need pip these libraries followed:
-* **tkinter:**Build GUI
+* tkinter:Build GUI
 * **tktooltip:**
 * **webbrowser**
 * **requests**
