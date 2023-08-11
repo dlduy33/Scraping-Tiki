@@ -3,7 +3,7 @@
 ## Introduction
 With everything gradually changing to become more convenient and faster, people's demand for online shopping has also increased greatly. In Vietnam, online shopping platforms develop very quickly and Tiki is one of the top online shopping platforms in Vietnam.
 <br>
-To support users who are new sellers who want to start selling on the e-commerce platform Tiki to collect data on one or more products to come up with a target product to start selling based on the collected data, this application was created.
+To support users who are new sellers who want to start selling on the e-commerce platform Tiki to collect data on one or more products to come up with a target product to start selling based on the collected data, this application created.
 
 ## Function
 With a friendly and easy-to-use interface, the application will quickly master with new users.
@@ -37,9 +37,9 @@ Explain the applications' features
 Through data collection using this application and having the data as shown above, we can combine with the customer360 model to effectively plan and choose which items are likely to sell best.
 
 ## Requirements
-Need pip these library followed:
-* **tkinter**
-* **tktooltip**
+Need pip these libraries followed:
+* **tkinter:**Build GUI
+* **tktooltip:**
 * **webbrowser**
 * **requests**
 * **fake_useragent**
