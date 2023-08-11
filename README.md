@@ -38,10 +38,10 @@ Through data collection using this application and having the data as shown abov
 
 ## Requirements
 Need pip these libraries followed:
-* tkinter:Build GUI
-* **tktooltip:**
-* **webbrowser**
-* **requests**
-* **fake_useragent**
-* **pandas**
-* **re**
+* **tkinter:** Use to build GUI
+* **tktooltip:** Use to create a jump/appear message when the mouse pointer hovers over a certain interface element
+* **webbrowser:** Use to open Tiki web when Open-Tiki button clicked
+* **requests:** Use to make and send HTTP requests to web servers and get responses from Tiki
+* **fake_useragent:** Use to create fake User-Agents to anonymize or impersonate the browser and operating system when interacting with websites or APIs
+* **pandas:** Use to create dataframe
+* **re:** Use to take necessary value from special sentence
